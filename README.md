@@ -25,7 +25,6 @@
 - Tạo app Product Listing theo example
 <img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_layout1.png" alt="alt text" width="900"/>
 
-
-
-
-
+### Bài 8. Gestures trong Flutter
+- Tạo gesture đơn giản và thử nghiệm các gestures khác nhau
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_gestures.png" alt="alt text" width="900"/>
