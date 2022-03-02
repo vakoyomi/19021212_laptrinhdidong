@@ -23,7 +23,7 @@
 ### Bài 7. Layout trong Flutter
 - Thử và tìm hiểu cơ chế của Single Child Widget, Multiple Child Widget
 - Tạo app Product Listing theo example
-<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_layout_1.png" alt="alt text" width="900"/>
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_layout1.png" alt="alt text" width="900"/>
 
 
 
