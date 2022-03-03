@@ -29,10 +29,10 @@ class MyHomePage extends StatelessWidget {
         SliverAppBar(
           expandedHeight: 250.0,
           flexibleSpace: FlexibleSpaceBar(
-            title: Text('UET Phone Store', textScaleFactor: 1),
+            title: Text('Goa', textScaleFactor: 1),
             background: Image.asset(
-              "appi/smiley.jpg",
-              fit: BoxFit.fitWidth,
+              'assets/images/beach.png',
+              fit: BoxFit.fill,
             ),
           ),
         ),
@@ -53,7 +53,7 @@ class MyHomePage extends StatelessWidget {
               );
 
             },
-            childCount: 5,
+            childCount: 6,
           ),
         ),
       ],
