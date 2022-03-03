@@ -28,3 +28,7 @@
 ### Bài 8. Gestures trong Flutter
 - Tạo gesture đơn giản và thử nghiệm các gestures khác nhau
 <img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_gestures.png" alt="alt text" width="900"/>
+
+### Bài 9-11. StatefulWidget & Scoped Model
+- Thử nghiệm statefulWidget bằng app Product Listing
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_stateful.png" alt="alt text" width="900"/>
