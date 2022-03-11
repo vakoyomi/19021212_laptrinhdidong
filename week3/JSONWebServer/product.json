@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Điện Thoại Samsung Galaxy Note 20 (8GB/256GB)",
+    "description": "Đã từ lâu, sự kết hợp giữa Note và S Pen thông minh định hình nên một thế hệ siêu phẩm, đầy quyền năng, ngay trong tay bạn. Với hiệu năng đáng kinh ngạc như máy tính, khả năng chỉnh sửa, quay video 8K chuyên nghiệp và định chuẩn trải nghiệm vượt trội dành cho game di động, siêu phẩm Note mới hứa hẹn mang đến những đột phá khác biệt, hoàn hảo dù bạn giải trí hay làm việc.  Đây là thế hệ smartphone đổi mới toàn diện cách bạn làm việc và giải trí.",
+    "price": 13999000,
+    "image": "product1.jpg"
+  },
+  {
+    "name": "Điện Thoại Samsung Galaxy Z Fold2 5G (12GB/256GB)",
+    "description": "Không chỉ là một chiếc điện thoại màn hình gập, Galaxy Z Fold 2 5G còn là chiếc điện thoại có tới 2 màn hình. Trong trạng thái gập, màn hình ngoài của máy với kích thước 6,2 inch, viền mỏng cho trải nghiệm smartphone thông thường, nơi bạn có thể thao tác dễ dàng bằng một tay. Còn muốn trải nghiệm một màn hình lớn hơn, tương đương máy tính bảng, bạn có thể mở ra màn hình gập, điều kỳ diệu sẽ xuất hiện.",
+    "price": 20999000,
+    "image": "product2.jpg"
+  }
+]

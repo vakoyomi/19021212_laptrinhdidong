@@ -45,10 +45,30 @@ MSV: 19021212
 - Thử nghiệm statefulWidget bằng app Product Listing
 <img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_stateful.png" alt="alt text" width="900"/>
 
-### Phone Store App (/week2)
+### Phone Store App (/week2) (Bài 13-16)
 #### Tính năng:
 - Màn hình danh sách điện thoại trong cửa hàng
 - Màn hình chi tiết thông tin từng loại điện thoại
 - Cart mua hàng sử dụng StatefulWidget và nút điều hướng
 
 <img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week2_phonestore.png" alt="alt text" width="900"/>
+
+### Bài 17. REST API
+- Thử nghiệm get hình ảnh từ JSONWebServer bằng hàm get (REST API)
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week3_rest.png" alt="alt text" width="900"/>
+
+### Bài 18. Cơ sở dữ liệu
+- Thử nghiệm sqflite, firebase_database
+- Em vẫn gặp lỗi trong bài này nên chưa có screenshot
+
+### Bài 19. Chuyển đổi ngôn ngữ
+- Thử nghiệm chuyển đổi ngôn ngữ bằng intl package
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week3_intl.png" alt="alt text" width="900"/>
+
+### Bài 19. Chuyển đổi ngôn ngữ
+- Thử nghiệm chuyển đổi ngôn ngữ bằng intl package
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week3_intl.png" alt="alt text" width="900"/>
+
+### Bài 20. Testing
+- Thử nghiệm testing trên app chuyển đổi ngôn ngữ vừa làm ở bài 19
+<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week3_test.png" alt="alt text" width="900"/>
