@@ -59,11 +59,6 @@ MSV: 19021212
 
 ### Bài 18. Cơ sở dữ liệu
 - Thử nghiệm sqflite, firebase_database
-- Em vẫn gặp lỗi trong bài này nên chưa có screenshot
-
-### Bài 19. Chuyển đổi ngôn ngữ
-- Thử nghiệm chuyển đổi ngôn ngữ bằng intl package
-<img src="https://raw.githubusercontent.com/vakoyomi/19021212_laptrinhdidong/main/Screenshots/week3_intl.png" alt="alt text" width="900"/>
 
 ### Bài 19. Chuyển đổi ngôn ngữ
 - Thử nghiệm chuyển đổi ngôn ngữ bằng intl package
